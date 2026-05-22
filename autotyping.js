@@ -117,6 +117,7 @@ var AutoTyping = (function (e) {
     };
   },
 ]).default;
+//code
 
 
 const exampleText = ['Developer', 'Designer', 'Author'];
